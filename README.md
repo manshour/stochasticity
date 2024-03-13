@@ -16,7 +16,7 @@ For example,
     
     h=bw.nrd(x = x)
 
-where x is the given timeseries. For a great review, see [1].
+where x is the given timeseries. For a great review, see [[1]].
 
 
 ## Estimate the Markov–Einstein (ME) time scale: 
@@ -41,6 +41,6 @@ To whom correspondence should be addressed, please contact Pouya Manshour at (ma
 P. Manshour acknowledges support from the Czech Academy of Sciences, Praemium Academiae awarded to M. Paluš. 
 M. R. Rahimitabar acknowledges Institute for Advanced Study (the Hanse-Wissenschaftskolleg) for their financial support.
 
-## References:
+
 [1]: https://bookdown.org/egarpor/NP-UC3M/kde-i-bwd.html
-[2]: dfgdfg
+
