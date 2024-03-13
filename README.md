@@ -25,6 +25,8 @@ To check the Markovianity of the process and to estimate the corresponding ME ti
     Markov(x,seq(1,20,1),0.05)
 
 
+
+
 ## Time-Resolved Drift and Stochasticity: 
 
     Stochasticity(x,0.1,51,1,PLOT=TRUE,ERR=FALSE,alpha=0.05)
@@ -32,9 +34,13 @@ To check the Markovianity of the process and to estimate the corresponding ME ti
 Please, see the parameters' description in the Stochasticity.R file.
 
 ## Correspondence:
-To send requests and bug reports about the code, please contact Pouya Manshour at (manshour@cs.cas.cz).
+To send requests and bug reports about the code, please contact 
+    Pouya Manshour at (manshour@cs.cas.cz).
 
-To whom correspondence should be addressed, please contact Pouya Manshour at (manshour@cs.cas.cz) or M. Reza Rahimitabar at (mohammed.r.rahimi.tabar@uni-oldenburg.de).
+To whom correspondence should be addressed, please contact 
+    Pouya Manshour at (manshour@cs.cas.cz) 
+    or 
+    M. Reza Rahimitabar at (mohammed.r.rahimi.tabar@uni-oldenburg.de).
 
 
 ## Acknowledgments:
