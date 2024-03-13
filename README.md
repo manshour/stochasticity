@@ -1,4 +1,8 @@
-The following R package is required to run the codes:
+This repository can be used to estimate time-resolved Drift and Stochasticity in non-stationary timeseries, as introduced in 
+"Characterizing Time-Resolved Stochasticity in Non-Stationary Time Series", Rahvar et. al., (2024).
+
+
+Note: The following R package is required to run the codes:
 
 'stats'
 
