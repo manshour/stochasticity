@@ -20,7 +20,7 @@ where x is the given timeseries. For a great review, see https://bookdown.org/eg
 
 
 ## Estimate the Markov–Einstein (ME) time scale: 
-To check the Markovianity of the process and to estimate the corresponding ME time scale (with p-value < 0.05 and different lags [1,20]) run the Markov.R function as follows:
+To check the Markovianity of the process and to estimate the corresponding ME time scale (for example, with p-value < 0.05 and different lags [1,20]) run the Markov.R function as follows:
 
     Markov(x,seq(1,20,1),0.05)
 
