@@ -38,4 +38,5 @@ To whom correspondence should be addressed, please contact Pouya Manshour at (ma
 
 
 ## Acknowledgments:
-This research was funded by Alexander von Humboldt Foundation grant to M.R.R.T. and K.L.; A.A. acknowledges the financial support from NSERC-CREATE Complex Dynamics and the Canada First Research Excellence Fund.
+P. Manshour acknowledges support from the Czech Academy of Sciences, Praemium Academiae awarded to M. Paluš. 
+M. R. Rahimitabar acknowledges Institute for Advanced Study (the Hanse-Wissenschaftskolleg) for their financial support.
