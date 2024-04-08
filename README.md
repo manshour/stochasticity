@@ -27,8 +27,8 @@ To check the Markovianity of the process and to estimate the corresponding ME ti
 
     source('The location of Markov.R file/Markov.R')
     lags=seq(1,20,1)
-    alpha=0.05
-    Markov(x,lags,alpha)
+    sig_thresh=0.05
+    Markov(x,lags,sig_thresh)
 
 
 
