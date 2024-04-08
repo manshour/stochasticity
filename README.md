@@ -47,9 +47,9 @@ To send requests and bug reports about the code, please contact
     Pouya Manshour at (manshour@cs.cas.cz).
 
 To whom correspondence should be addressed, please contact 
-    Pouya Manshour at (manshour@cs.cas.cz) 
+    Pouya Manshour (manshour@cs.cas.cz) 
     or 
-    M. Reza Rahimitabar at (mohammed.r.rahimi.tabar@uni-oldenburg.de).
+    M. Reza Rahimitabar (mohammed.r.rahimi.tabar@uni-oldenburg.de).
 
 
 ## Acknowledgments:
