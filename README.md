@@ -25,8 +25,10 @@ where x is the given timeseries. For a great review, see [[1]].
 ## Estimate the Markov–Einstein (ME) time scale: 
 To check the Markovianity of the process and to estimate the corresponding ME time scale (for example, with p-value < 0.05 and different lags 1 to 20) run the Markov.R function as follows:
 
-    source('The location of Markov.R file/Markove.R')
-    Markov(x,seq(1,20,1),0.05)
+    source('The location of Markov.R file/Markov.R')
+    lags=seq(1,20,1)
+    alpha=0.05
+    Markov(x,lags,alpha)
 
 
 
@@ -34,7 +36,9 @@ To check the Markovianity of the process and to estimate the corresponding ME ti
 ## Time-Resolved Drift and Stochasticity: 
 
     source('The location of Stochasticity.R file/Stochasticity.R')
-    Stochasticity(x,0.1,51,1,PLOT=TRUE,ERR=FALSE,alpha=0.05)
+    dt    =1  # the time step
+    nbin  =51 # the number of bins to compute probabilities
+    Stochasticity(x,h,nbin,dt,PLOT=TRUE,ERR=FALSE,alpha=0.05)
 
 Please, see the parameters' description in the Stochasticity.R file.
 
