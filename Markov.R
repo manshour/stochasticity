@@ -1,4 +1,4 @@
-# This code estimates the Markov-Einstein length using Wilcoxon test
+# This code estimate the Markov-Einstein length using Wilcoxon test
 
 # Step 1: Read the (1dimensional) data of type double;  timeseries = scan("insert_the_location_of_your_data.txt") 
 
