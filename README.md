@@ -3,7 +3,7 @@
 
 This repository contains the codes needed for estimating time-resolved Drift and Stochasticity in non-stationary timeseries, as introduced in 
 
-Rahvar et. al. "Characterizing Time-Resolved Stochasticity in Non-Stationary Time Series", Chaos, Solitons & Fractals 185, 115069 (2024).
+Rahvar et. al. "Characterizing Time-Resolved Stochasticity in Non-Stationary Time Series", Chaos, Solitons & Fractals 185, 115069 (2024) [[1]].
 
 ## Dependencies:
 
@@ -19,7 +19,7 @@ For example,
     
     h=bw.nrd(x = x)
 
-where x is the given timeseries. For a great review, see [[1]].
+where x is the given timeseries. For a great review, see [[2]].
 
 
 ## Estimate the Markov–Einstein (ME) time scale: 
@@ -56,5 +56,6 @@ To whom correspondence should be addressed, please contact
 P. Manshour acknowledges support from the Czech Academy of Sciences, Praemium Academiae awarded to M. Paluš. M. R. Rahimitabar acknowledges Institute for Advanced Study (the Hanse-Wissenschaftskolleg) for their financial support.
 
 
-[1]: https://bookdown.org/egarpor/NP-UC3M/kde-i-bwd.html
+[1]: https://www.sciencedirect.com/science/article/pii/S0960077924006210
+[2]: https://bookdown.org/egarpor/NP-UC3M/kde-i-bwd.html
 
