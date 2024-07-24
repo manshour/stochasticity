@@ -3,7 +3,7 @@
 
 This repository contains the codes needed for estimating time-resolved Drift and Stochasticity in non-stationary timeseries, as introduced in 
 
-"Characterizing Time-Resolved Stochasticity in Non-Stationary Time Series", Rahvar et. al., Chaos, Solitons & Fractals 185, 115069 (2024).
+Rahvar et. al. "Characterizing Time-Resolved Stochasticity in Non-Stationary Time Series", Chaos, Solitons & Fractals 185, 115069 (2024).
 
 ## Dependencies:
 
