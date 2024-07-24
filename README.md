@@ -56,6 +56,6 @@ To whom correspondence should be addressed, please contact
 P. Manshour acknowledges support from the Czech Academy of Sciences, Praemium Academiae awarded to M. Paluš. M. R. Rahimitabar acknowledges Institute for Advanced Study (the Hanse-Wissenschaftskolleg) for their financial support.
 
 
-[1]: https://www.sciencedirect.com/science/article/pii/S0960077924006210
+[1]: https://doi.org/10.1016/j.chaos.2024.115069
 [2]: https://bookdown.org/egarpor/NP-UC3M/kde-i-bwd.html
 
