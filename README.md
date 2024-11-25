@@ -51,5 +51,5 @@ P. Manshour acknowledges support from the Czech Academy of Sciences, Praemium Ac
 
 [1]: https://doi.org/10.1016/j.chaos.2024.115069
 [2]: https://bookdown.org/egarpor/NP-UC3M/kde-i-bwd.html
-[3]: https://journals.aps.org/pre/abstract/10.1103/PhysRevE.83.046319
+[3]: https://doi.org/10.1103/PhysRevE.83.046319
 
