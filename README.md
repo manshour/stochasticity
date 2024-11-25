@@ -23,14 +23,7 @@ where x is the given timeseries. For a great review, see [[2]].
 
 
 ## Estimate the Markov–Einstein (ME) time scale: 
-To check the Markovianity of the process and to estimate the corresponding ME time scale (for example, with p-value < 0.05 and different lags 1 to 20) run the Markov.R function as follows:
-
-    source('The location of Markov.R file/Markov.R')
-    lags       = seq(1,20,1)
-    sig_thresh = 0.05
-    Markov(x,lags,sig_thresh)
-
-
+To check the Markovianity of the process and to estimate the corresponding ME time scale, use the "Markov.ipynb" jupyter notebook file which includes a function that estimates the Markov-Einstein Length using Wilcoxon method as desribed in [[3]]
 
 
 ## Time-Resolved Drift and Stochasticity: 
@@ -58,4 +51,5 @@ P. Manshour acknowledges support from the Czech Academy of Sciences, Praemium Ac
 
 [1]: https://doi.org/10.1016/j.chaos.2024.115069
 [2]: https://bookdown.org/egarpor/NP-UC3M/kde-i-bwd.html
+[3]: https://journals.aps.org/pre/abstract/10.1103/PhysRevE.83.046319
 
