@@ -27,12 +27,14 @@ To check the Markovianity of the process and to estimate the corresponding ME ti
 
 
 ## Time-Resolved Drift and Stochasticity: 
-To estimate the time-resolved Drift and Stochasticity defined in [[1]], you can use the example bellow:
+To estimate the time-resolved Drift and Stochasticity defined in [[1]], you can use the following codes in R ('Stochasticity.R' file):
 
     source('The location of Stochasticity.R file/Stochasticity.R')
     dt    = 1   # the time step
     nbin  = 51  # the number of bins to compute probabilities
     Stochasticity(x,h,nbin,dt,PLOT=TRUE,ERR=FALSE,alpha=0.05)
+
+A python version is also available ('Stochasticity.ipynb').
 
 Please, see the parameters' description in the Stochasticity.R file for more details.
 
